@@ -4,4 +4,4 @@ Disallow: /privacy-policy/
 Disallow: /thank-you/
 Disallow: /resources/
 
-Sitemap: https://www.electricianprosfarmhills.com/sitemap.xml
+Sitemap: https://electricianprosfarmhills.com/sitemap.xml
